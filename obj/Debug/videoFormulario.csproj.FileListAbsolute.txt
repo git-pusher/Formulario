@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\bin\Debug\videoFormulario.exe.config
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\bin\Debug\videoFormulario.exe
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\bin\Debug\videoFormulario.pdb
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\obj\Debug\videoFormulario.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\obj\Debug\videoFormulario.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\obj\Debug\videoFormulario.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\obj\Debug\videoFormulario.exe
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\obj\Debug\videoFormulario.pdb
+C:\Users\ADMIN\source\repos\videoFormulario\videoFormulario\obj\Debug\videoFormulario.Form1.resources
